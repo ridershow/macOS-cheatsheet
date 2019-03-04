@@ -9,7 +9,7 @@ Show All User Accounts, User Directories, & User GECOS Info on a Mac ==> dscache
 
 ---------------------------------------------------------------------------
 
-a  | Description
+a             | Description
 ------------- | -------------
 afconvert     | Audio File Convert
 afinfo        | Audio File Info
@@ -22,45 +22,47 @@ asr           | Apple Software Restore
 atsutil       | Font registration system utility
 awk           | Find and Replace text within file(s)
   
-b
-  basename  Convert a full pathname to just a filename
-  bash      Bourne-Again SHell
-  bg        Send to background
-  bind      Set or display readline key and function bindings
-  bless     Set volume bootability and startup disk options
-  break     Exit from a For, While, Until or Select loop
-  builtin   Execute a shell builtin
-  bzip2     Compress or decompress files
-  
-c
-  caffeinate Prevent the system from sleeping
-  cal       Display a calendar
-  calendar  Reminder Service
-  caller    Return the context of a subroutine call •
-  cancel    Cancel print jobs
-  case      Conditionally perform a command •
-  cat       Concatenate and print (display) the content of files
-  cd        Change Directory •
-  chflags   Change a file or folder's flags
-  chgrp     Change group ownership
-  chmod     Change access permissions
-  chown     Change file owner and group
-  chroot    Run a command with a different root directory
-  cksum     Print CRC checksum and byte counts
-  clear     Clear terminal screen
-  cmp       Compare two files
-  comm      Compare two sorted files line by line
-  command   Run a command (not a function) •
-  complete  Edit a command completion [word/pattern/list] •
-  continue  Resume the next iteration of a loop •
-  cp        Copy one or more files to another location
-  cron      Daemon to execute scheduled commands
-  crontab   Schedule a command to run at a later date/time
-  csplit    Split a file into context-determined pieces
-  csrutil   Configure System Integrity Protection (SIP)
- cupsfilter Convert a file to another format using cups filters
-  curl      Transfer data  from or to a server
-  cut       Divide a file into several parts
+b             | Description
+------------- | -------------
+basename      | Convert a full pathname to just a filename
+bash          | Bourne-Again SHell
+bg            | Send to background
+bind          | Set or display readline key and function bindings
+bless         | Set volume bootability and startup disk options
+break         | Exit from a For, While, Until or Select loop
+builtin       | Execute a shell builtin
+bzip2         | Compress or decompress files
+
+c             | Description
+------------- | -------------
+caffeinate    | Prevent the system from sleeping
+cal           | Display a calendar
+calendar      | Reminder Service
+caller        | Return the context of a subroutine call •
+cancel        | Cancel print jobs
+case          | Conditionally perform a command •
+cat           | Concatenate and print (display) the content of files
+cd            | Change Directory •
+chflags       | Change a file or folder's flags
+chgrp         | Change group ownership
+chmod         | Change access permissions
+chown         | Change file owner and group
+chroot        | Run a command with a different root directory
+cksum         | Print CRC checksum and byte counts
+clear         | Clear terminal screen
+cmp           | Compare two files
+comm          | Compare two sorted files line by line
+command       | Run a command (not a function) •
+complete      | Edit a command completion [word/pattern/list] •
+continue      | Resume the next iteration of a loop •
+cp            | Copy one or more files to another location
+cron          | Daemon to execute scheduled commands
+crontab       | Schedule a command to run at a later date/time
+csplit        | Split a file into context-determined pieces
+csrutil       | Configure System Integrity Protection (SIP)
+cupsfilter    | Convert a file to another format using cups filters
+curl          | Transfer data  from or to a server
+cut           | Divide a file into several parts
   
 d
   date      Display or change the date & time
