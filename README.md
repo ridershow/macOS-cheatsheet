@@ -8,17 +8,19 @@ Show User Accounts Only ==> dscl . list /Users | grep -v '_'
 Show All User Accounts, User Directories, & User GECOS Info on a Mac ==> dscacheutil -q user
 
 ---------------------------------------------------------------------------
-a
-  afconvert Audio File Convert
-  afinfo    Audio File Info
-  afplay    Audio File Play
-  airport   Manage Apple AirPort
-  alias     Create an alias
-  alloc     List used and free memory
-  apropos   Search the whatis database for strings
-  asr       Apple Software Restore
-  atsutil   Font registration system utility
-  awk       Find and Replace text within file(s)
+
+a  | Description
+------------- | -------------
+afconvert     | Audio File Convert
+afinfo        | Audio File Info
+afplay        | Audio File Play
+airport       | Manage Apple AirPort
+alias         | Create an alias
+alloc         | List used and free memory
+apropos       | Search the whatis database for strings
+asr           | Apple Software Restore
+atsutil       | Font registration system utility
+awk           | Find and Replace text within file(s)
   
 b
   basename  Convert a full pathname to just a filename
