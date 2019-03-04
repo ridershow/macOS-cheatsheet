@@ -13,7 +13,7 @@ a
   afinfo    Audio File Info
   afplay    Audio File Play
   airport   Manage Apple AirPort
-  alias     Create an alias •
+  alias     Create an alias
   alloc     List used and free memory
   apropos   Search the whatis database for strings
   asr       Apple Software Restore
@@ -23,11 +23,11 @@ a
 b
   basename  Convert a full pathname to just a filename
   bash      Bourne-Again SHell
-  bg        Send to background •
-  bind      Set or display readline key and function bindings •
+  bg        Send to background
+  bind      Set or display readline key and function bindings
   bless     Set volume bootability and startup disk options
-  break     Exit from a For, While, Until or Select loop •
-  builtin   Execute a shell builtin •
+  break     Exit from a For, While, Until or Select loop
+  builtin   Execute a shell builtin
   bzip2     Compress or decompress files
   
 c
